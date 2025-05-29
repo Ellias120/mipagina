@@ -4,7 +4,7 @@
     <title>Logo IES21</title>
     <style>
         body {
-            background-color: #87CEEB; /* Spanish Sky Blue */
+            background-color: #0070B8; /* Spanish Sky Blue */
             display: flex;
             flex-direction: column;
             justify-content: center;
